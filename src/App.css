@@ -1,0 +1,14 @@
+
+.photoDiv {
+  padding: 20px;
+}
+
+.photo {
+  width: 200px;
+  height: 133px; 
+}
+
+.photo_big {
+  width: 300px;
+  height: 200px; 
+}
